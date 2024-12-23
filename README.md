@@ -6,13 +6,13 @@ I'm Dhruv, a Computer Engineering student with a passion for building innovative
 
 # 📊 GitHub Stats  
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvds12&show_icons=true&theme=tokyonight)  
 
 🔥 **GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvds12&theme=tokyonight)  
 
 🌐 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvds12&layout=compact&theme=tokyonight)
 
 ---
 
