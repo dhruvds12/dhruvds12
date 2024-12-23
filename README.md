@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm Dhruv, a Computer Engineering student with a passion for building innovative solutions in software development, embedded systems, and IoT. My interests span algorithmic trading, high-performance computing, and creating meaningful tech for real-world problems. I love learning new technologies and collaborating on exciting projects!
+
+---
+
+# 📊 GitHub Stats  
+
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+
+🔥 **GitHub Streak**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)  
+
+🌐 **Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+
+---
+
 <!--
 **dhruvds12/dhruvds12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
