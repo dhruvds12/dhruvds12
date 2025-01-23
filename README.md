@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dhruv, a Computer Engineering student with a passion for building innovative solutions in software development, embedded systems, and IoT. My interests span algorithmic trading, high-performance computing, and creating meaningful tech for real-world problems. I love learning new technologies and collaborating on exciting projects!
+I'm Dhruv, a Computer Engineering student with a passion for building innovative solutions in software development!
 
 ---
 
