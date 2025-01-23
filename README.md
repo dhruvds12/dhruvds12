@@ -3,14 +3,14 @@
 I'm Dhruv, a Computer Engineering student with a passion for building innovative solutions in software development!
 
 ---
-
+<!--
 # 📊 GitHub Stats  
 
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvds12&show_icons=true&theme=tokyonight)  
 
 🔥 **GitHub Streak**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvds12&theme=tokyonight)  
-
+-->
 <!-- 🌐 **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvds12&exclude_repo=hlp24_tick3&hide=css,html,shaderlab,HLSL&layout=compact&theme=tokyonight) -->
 
