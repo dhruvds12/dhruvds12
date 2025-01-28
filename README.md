@@ -5,9 +5,10 @@ I'm Dhruv, a Computer Engineering student with a passion for building innovative
 # 📊 GitHub Stats  
 
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvds12&show_icons=true&theme=tokyonight)  
-
+<!--
 🔥 **GitHub Streak**  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dhruvds12&theme=github-dark-blue)](https://git.io/streak-stats)
+-->
 
  🌐 **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvds12&exclude_repo=hlp24_tick3&hide=css,html,shaderlab,HLSL&layout=compact&theme=tokyonight) 
