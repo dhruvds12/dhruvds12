@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 I'm Dhruv, a Computer Engineering student with a passion for building innovative solutions in software development!
-<!--
----
 
 # 📊 GitHub Stats  
 
@@ -10,12 +8,10 @@ I'm Dhruv, a Computer Engineering student with a passion for building innovative
 
 🔥 **GitHub Streak**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvds12&theme=tokyonight)  
--->
-<!-- 🌐 **Top Languages**  
+
+ 🌐 **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvds12&exclude_repo=hlp24_tick3&hide=css,html,shaderlab,HLSL&layout=compact&theme=tokyonight) 
 
----
--->
 <!--
 **dhruvds12/dhruvds12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
